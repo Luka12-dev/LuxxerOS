@@ -1815,8 +1815,6 @@ class CalculatorApp(QMainWindow):
 
 # Zer3 small language + IDE
 
-# ---
-
 # Zer3 Interpreter
 
 class Zer3Interpreter:
@@ -1875,9 +1873,8 @@ class Zer3Interpreter:
             f.write(f"<error: {e}>\n")
         return f.getvalue().strip()
 
-# ----------------------------
 # Zer3 Highlighter
-# ----------------------------
+
 class Zer3Highlighter(QSyntaxHighlighter):
     """
     Python-like syntax highlighter (~300 keywords/builtins).
@@ -2035,9 +2032,7 @@ class Zer3IDE(QMainWindow):
         except Exception as e:
             self.output.setPlainText(f"❌ Error: {e}")
 
-# -----------------------------
 # Cybersecurity toolkit (educational)
-# -----------------------------
 
 class BruteForceThread(QThread):
     progress = pyqtSignal(int)
@@ -3595,7 +3590,7 @@ except Exception:
     screeninfo = None
 
 
-# ----------------- Helpers: save and run -----------------
+# Helpers: save and run
 def safe_save_text(parent, title: str, default_name: str, text: str):
     """
     Show save dialog and write text to file. Show message boxes on success/failure.
