@@ -1,0 +1,33 @@
+System Requirements
+
+-----
+
+Minimum:
+
+OS: Windows 10 (64-bit)
+
+Processor: Intel Celeron / AMD Athlon (dual-core, 2.0 GHz)
+
+Memory: 4 GB RAM
+
+Storage: 1 GB available space
+
+Graphics: Integrated GPU (Intel HD Graphics or equivalent)
+
+Other: Keyboard, Mouse
+
+-----
+
+Recommended:
+
+OS: Windows 10/11 (64-bit)
+
+Processor: Intel Core i5 / AMD Ryzen 5 (quad-core or better)
+
+Memory: 8 GB RAM
+
+Storage: 2 GB available space
+
+Graphics: Dedicated GPU (NVIDIA GTX 900 series / AMD RX 400 series or better)
+
+Other: Internet connection for updates & some apps
