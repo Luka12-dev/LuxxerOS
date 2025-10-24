@@ -64,7 +64,7 @@ from PyQt6.QtWidgets import (
     QTreeWidget, QTreeWidgetItem, QColorDialog, QInputDialog, QProgressBar, QSplitter,
     QFrame, QMenu, QComboBox, QGridLayout, QDockWidget, QSpinBox, QCheckBox,
     QMdiArea, QMdiSubWindow, QScrollArea, QSizePolicy, QMenuBar, QTableWidget,
-    QTableWidgetItem, QSlider, QDialog, QTabWidget, QToolBar, QPlainTextEdit, QCalendarWidget,
+    QTableWidgetItem, QSlider, QDialog, QTabWidget, QToolBar, QPlainTextEdit, QCalendarWidget, QSpacerItem
 )
 from PyQt6.QtMultimediaWidgets import QVideoWidget
 from PyQt6.QtMultimedia import QMediaPlayer, QAudioOutput
@@ -7987,3 +7987,4 @@ if __name__ == "__main__":
         sys.exit(exit_code)
     else:
         sys.exit(0)
+
