@@ -4,6 +4,18 @@
 
 ---
 
+## 🚀 Full LuxxerOS v3.oV Release
+
+To access the **complete LuxxerOS experience**, download the latest release from the **Releases** section.  
+
+**Why download the full release?**  
+- ✅ Most **stable** version yet  
+- ✅ Fully **optimized** for smooth performance  
+- ✅ Includes **all icons, scripts, and resources**  
+- ✅ Packed with **maximum features**
+
+> ⚠️ Using only `Luxxer_OS.py` **won’t work properly**—make sure to download the full release!
+
 ## Table of contents
 
 1. Quick start
@@ -334,5 +346,6 @@ If you want, I can also generate:
 - a CI script for automated builds (Windows + Linux)
 
 ---
+
 
 *End of README*
