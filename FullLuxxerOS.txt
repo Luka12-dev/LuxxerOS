@@ -1,0 +1,12 @@
+🚀 Recommended: To use the full LuxxerOS experience (including all icons, scripts, and resources), download the latest release v3.oV from the Releases section.
+⚠️ Using only Luxxer_OS.py won’t work properly because it relies on all included files.
+
+✨ What’s new in v3.oV:
+
+Most stable and optimized build yet
+
+All icons added
+
+Improved performance and bug fixes
+
+Ready-to-use out-of-the-box
