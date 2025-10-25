@@ -336,16 +336,8 @@ pyinstaller --noconfirm --clean --onefile --name LuxxerOS --add-data "BSOD.py;."
 
 ---
 
-### Final words
+## License
+- MIT
 
-Thank you for working on Luxxer OS. This README is intentionally thorough - packaging a large, modular PyQt project is non-trivial and often requires iterating on the build until all optional dependencies and Qt plugins are handled.
-
-If you want, I can also generate:
-- a `requirements.txt` tuned to minimize exe size
-- a PyInstaller spec file with plugin hooks for Qt
-- a CI script for automated builds (Windows + Linux)
-
----
-
-
-*End of README*
+## Author
+- Luka
